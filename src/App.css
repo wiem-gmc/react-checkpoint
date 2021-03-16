@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  
+ 
 }
 
 .App-logo {
@@ -14,7 +14,16 @@
   }
 }
 
+
+
+.row{
+  display: flex;
+  justify-content: center;
+  margin: 30px 30px 30px 30px ;
+
+}
 .App-header {
+
   background: linear-gradient(#61dafb,#035a72,#000d11);
   
 
